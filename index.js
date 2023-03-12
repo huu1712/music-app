@@ -13,12 +13,7 @@ const app = {
     currentIndex: 0,
     isPlaying: false,
     songs: [
-        {
-            name: 'Ông bà già tao lo hết',
-            singer: 'Bình Gold',
-            path: './assets/songs/OngBaGiaTaoLoHet-BinhGoldLilShady-6720293.mp3',
-            img: './assets/img/AcclaimedHeartfeltGoat-size_restricted.gif'
-        },
+       
         {
             name: 'Tháng 7 của anh em và cô đơn',
             singer: 'Khói',
